@@ -1,8 +1,10 @@
 # Hi there! 👋  
 
-I'm **Miłosz**, a programming enthusiast passionate about data visualization, algorithms, and desktop applications.  
 
-### I have used:  
+## About me:
+I'm a student at the Faculty of Mathematics and Information Sciences at Warsaw University of Technology, studying Data Science and Engineering. In my free time I enjoy playing tennis 🎾 and hiking in the mountains 🏔️.
+
+## I have used:  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
@@ -25,7 +27,7 @@ I'm **Miłosz**, a programming enthusiast passionate about data visualization, a
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white) 
 
-### I want to learn:  
+## I want to learn:  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
@@ -38,10 +40,6 @@ I'm **Miłosz**, a programming enthusiast passionate about data visualization, a
 🔹 **[Shiny App](https://github.com/zielinskim04/DataVisualisationTechniques/tree/main/project_2)** – Web-based interactive data visualization using R Shiny  
 🔹 **[Poster](https://github.com/zielinskim04/DataVisualisationTechniques/tree/main/project_1)** – Poster based on oral health data around world  
 🔹 **[MATLAB](https://github.com/zielinskim04/NumericalMethods?tab=readme-ov-file#numerical-methods)** – Numerical Methods projects 
-
-## 🎾 Hobbies  
-
-- Playing **tennis** and **running**
 
  
 
